@@ -27,7 +27,7 @@
     "getport": "^0.1.0",
     "minimist": "^0.2.0",
     "node-env": "~0.1.8",
-    "process": "~0.5.1",
+    "process": "~0.11.10",
     "resolve": "~0.4.0",
     "send-data": "^3.3.2",
     "watchify": "^1.0.2",
