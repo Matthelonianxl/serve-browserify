@@ -25,7 +25,7 @@
     "compiled-files": "~0.1.1",
     "ecstatic": "^0.5.4",
     "getport": "^0.1.0",
-    "minimist": "^0.2.0",
+    "minimist": "^1.2.2",
     "node-env": "~0.1.8",
     "process": "~0.5.1",
     "resolve": "~0.4.0",
